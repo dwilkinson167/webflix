@@ -8,7 +8,7 @@
 
 ![Home page](home.png)
 
-         ## Installation
+          ## Installation
 
 1. Fork the repository
 2. Copy `.env.example` to `.env` and modify the values to match your environment
