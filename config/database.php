@@ -65,6 +65,7 @@ return [
     'prefix' => '',
     'schema' => 'public',
     'sslmode' => 'prefer',
+        ],
 
         'mysql' => [
             'driver' => 'mysql',
